@@ -1,3 +1,6 @@
+# Java object Serializer and Deserializer 
+This program serializes Java object instances to a JSON stream and sends it over a network socket to a peer which then performs a deserialization, creating the object instances back and filling in the proper parameters. Program was written for the CPSC 501 Advanced Programming Techiques at the University of Calgary for the Fall 2020 semester.
+
 # Refactorings
 First refactoring done using **Branch And Merge**
 - Bad code smell: Long class
